@@ -1,0 +1,26 @@
+{
+  "note": "Use this mapping to indicate which workbook sheets contain key formulas. I can now translate cell formulas to JS if you tell me which formulas (sheet name + cell references) matter most.",
+  "exported_sheets_count": 20,
+  "sheets": [
+    "Configuration",
+    "Cache",
+    "Version History",
+    "Loan Servicing Calculator",
+    "Loan Servicing Calc Cache",
+    "SMSF Servicing",
+    "Generate Servicing Calculator",
+    "Generate Servicing Calc Cache",
+    "Postcode Lookup",
+    "Postcode - Private",
+    "Postcode Lookup Tables",
+    "Postcode Lookup Cache",
+    "FX Conversion",
+    "FX Conversion Tables",
+    "BAS Calculator",
+    "Lease Doc",
+    "Drop In Tables",
+    "Geographic Classification",
+    "Quantile Regressions",
+    "Table 3"
+  ]
+}

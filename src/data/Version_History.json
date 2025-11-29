@@ -1,0 +1,122 @@
+[
+  {
+    "Version": "v10",
+    "Change Date": 44958,
+    "Change Detail": "Removal of Macros for friendly Use",
+    "Changed Cells": null
+  },
+  {
+    "Version": "v11",
+    "Change Date": 44972,
+    "Change Detail": "Updated HEM",
+    "Changed Cells": null
+  },
+  {
+    "Version": "v11",
+    "Change Date": 44972,
+    "Change Detail": "Removed \"Repayment Type\" from \"New Assetline Loans\" section",
+    "Changed Cells": null
+  },
+  {
+    "Version": "v12",
+    "Change Date": 44978,
+    "Change Detail": "Servicing Calc \nChange assessment servicing to 2% - Current rate plus 2%, floor rate stays the same but is not relative as all our rates are above 4%\nChange other debts to ‘actual repayments’ plus 2%\n\nSMSF Servicing \nSensitivity on existing and new facilities changed from 3% to 2%",
+    "Changed Cells": "Servicing Calc\nR58 - R68\nS41\nZ58 - AC68\n\nSMSF\nAG49 & AG51"
+  },
+  {
+    "Version": "v12",
+    "Change Date": 44995,
+    "Change Detail": "Assessment rate changed from 6% to 7%",
+    "Changed Cells": "Servicing Calc S40"
+  },
+  {
+    "Version": "v13",
+    "Change Date": 45022,
+    "Change Detail": "Included Actual Repayments",
+    "Changed Cells": null
+  },
+  {
+    "Version": "v14",
+    "Change Date": 45048,
+    "Change Detail": "Rental Income for non-income generating entity",
+    "Changed Cells": "Servicing Calc P31, F26:F28 & Q26:28"
+  },
+  {
+    "Version": "v14",
+    "Change Date": 45065,
+    "Change Detail": "Hidden \"Interest Only\" Row is SMSF Servicing",
+    "Changed Cells": "Row 68"
+  },
+  {
+    "Version": "v14",
+    "Change Date": 45065,
+    "Change Detail": "HEM Updates",
+    "Changed Cells": "Drop in Tables, Quantile Regressions & Geographic Classicification"
+  },
+  {
+    "Version": "v14",
+    "Change Date": 45065,
+    "Change Detail": "Moved cells so copy and paste is easier for HEM",
+    "Changed Cells": "Drop In Tables - moved cells AA-AC to AV-AX"
+  },
+  {
+    "Version": "v14",
+    "Change Date": 45075,
+    "Change Detail": "Removed C26>0 in second part of formula for Pass Fail Calculator to fix glitch",
+    "Changed Cells": "SMSF Servicing D75:G80"
+  },
+  {
+    "Version": "v14",
+    "Change Date": 45076,
+    "Change Detail": "Shaded Rental Income for non-income generating entity 80%",
+    "Changed Cells": "Servicing Q27-28"
+  },
+  {
+    "Version": "v15",
+    "Change Date": 45153,
+    "Change Detail": "Updated HEM",
+    "Changed Cells": "Drop in Tables, Quantile Regressions & Geographic Classicification"
+  },
+  {
+    "Version": "v15",
+    "Change Date": 45245,
+    "Change Detail": "Updated HEM",
+    "Changed Cells": "Drop in Tables, Quantile Regressions & Geographic Classicification"
+  },
+  {
+    "Version": "v15",
+    "Change Date": 45337,
+    "Change Detail": "Updated HEM",
+    "Changed Cells": "Drop in Tables, Quantile Regressions & Geographic Classicification"
+  },
+  {
+    "Version": "v16",
+    "Change Date": 45441,
+    "Change Detail": "Updated HEM",
+    "Changed Cells": "Drop in Tables, Quantile Regressions & Geographic Classicification"
+  },
+  {
+    "Version": "v16",
+    "Change Date": 45519,
+    "Change Detail": "Updated HEM",
+    "Changed Cells": "Drop in Tables, Quantile Regressions & Geographic Classicification"
+  },
+  {
+    "Version": "v17",
+    "Change Date": 45539,
+    "Change Detail": "Updated SMS Concessional Contributions",
+    "Changed Cells": "SMSF Servicing R12, Q13, Y9, Z9, AH17, L35 & K36"
+  },
+  {
+    "Version": "v17",
+    "Change Date": 45539,
+    "Change Detail": "Updated SMS Non-Concessional Contributions",
+    "Changed Cells": "SMSF Servicing L39, Y18, Z18, R16 & Q17"
+  },
+  {
+    "Version": "v18",
+    "Change Date": 45782,
+    "Change Detail": "Refactored calculator",
+    "Changed Cells": null
+  }
+]

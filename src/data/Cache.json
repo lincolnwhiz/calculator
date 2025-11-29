@@ -1,0 +1,117 @@
+[
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Cache",
+    "Unnamed: 2": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Here be dragons. Only developers should touch this space.",
+    "Unnamed: 2": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": null,
+    "Unnamed: 2": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "General",
+    "Unnamed: 2": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": null,
+    "Unnamed: 2": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "General variables. These are formula or code driven - DO NOT EDIT MANUALLY.",
+    "Unnamed: 2": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": null,
+    "Unnamed: 2": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": null,
+    "Unnamed: 2": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Application Name",
+    "Unnamed: 2": "Assetline Calculators"
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Mode",
+    "Unnamed: 2": "PRODUCTION MODE"
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Version",
+    "Unnamed: 2": 20251124.233
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Use Encrypted Passwords",
+    "Unnamed: 2": "Yes"
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Workbook Password",
+    "Unnamed: 2": "y'22\\"
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Worksheet Password",
+    "Unnamed: 2": "y'22\\"
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Display Full Screen",
+    "Unnamed: 2": false
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Display Horizontal ScrollBar",
+    "Unnamed: 2": true
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Display Vertical ScrollBar",
+    "Unnamed: 2": true
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Display Row Column Headings",
+    "Unnamed: 2": false
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Display Workbook Tabs",
+    "Unnamed: 2": true
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Display Status Bar",
+    "Unnamed: 2": true
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Display Formula Bar",
+    "Unnamed: 2": true
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Display Quick Access Toolbar",
+    "Unnamed: 2": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "UTC Offset",
+    "Unnamed: 2": 11
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "FX Conversion Tables",
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null,
+    "Unnamed: 5": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null,
+    "Unnamed: 5": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null,
+    "Unnamed: 5": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "FX_CONVERSION_TABLE_CURRENCY_CODES",
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null,
+    "Unnamed: 5": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null,
+    "Unnamed: 5": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null,
+    "Unnamed: 5": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null,
+    "Unnamed: 5": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Unnamed: 3": null,
+    "Unnamed: 4": null,
+    "Unnamed: 5": null
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Currency",
+    "Unnamed: 2": "Local Symbol",
+    "Unnamed: 3": "Currency Pair",
+    "Unnamed: 4": "UTC",
+    "Unnamed: 5": "Last Price"
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Canada (CAD)",
+    "Unnamed: 2": "CAD",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.97278935185,
+    "Unnamed: 5": 1.0958
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "China (CNY)",
+    "Unnamed: 2": "CNY",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.97278935185,
+    "Unnamed: 5": 0.2181
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "European Union (EUR)",
+    "Unnamed: 2": "EUR",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.97278935185,
+    "Unnamed: 5": 1.7878
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Hong Kong (HKD)",
+    "Unnamed: 2": "HKD",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.9728125,
+    "Unnamed: 5": 0.1987
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Japanese Yen / Yen (JPY)",
+    "Unnamed: 2": "JPY",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.97278935185,
+    "Unnamed: 5": 0.009897
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Korean Won (KRW)",
+    "Unnamed: 2": "KRW",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.97278935185,
+    "Unnamed: 5": 0.001054
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "New Zealand (NZD)",
+    "Unnamed: 2": "NZD",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.97278935185,
+    "Unnamed: 5": 0.8691
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Singapore Dollar (SGD)",
+    "Unnamed: 2": "SGD",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.97278935185,
+    "Unnamed: 5": 1.1868
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "Swiss Franc / Swissy (CHF)",
+    "Unnamed: 2": "CHF",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.97278935185,
+    "Unnamed: 5": 1.9128
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "United Kingdom (GBP)",
+    "Unnamed: 2": "GBP",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.97280092593,
+    "Unnamed: 5": 2.0345
+  },
+  {
+    "Unnamed: 0": NaN,
+    "Unnamed: 1": "United States (USD)",
+    "Unnamed: 2": "USD",
+    "Unnamed: 3": "0xf",
+    "Unnamed: 4": 45986.97278935185,
+    "Unnamed: 5": 1.5454
+  }
+]
